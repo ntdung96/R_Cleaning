@@ -39,4 +39,4 @@ The cleaned dataset is grouped by subjects and activities and then applied
 summarized_all to calculate the average for each variable for each activity
 group with 6 activities in each group. (line 25-27)
 
-P/s: I didn't adjust the variables' names since tidy pricipals don't really say that.
+I didn't adjust the variables' names since tidy pricipals don't really say that.
